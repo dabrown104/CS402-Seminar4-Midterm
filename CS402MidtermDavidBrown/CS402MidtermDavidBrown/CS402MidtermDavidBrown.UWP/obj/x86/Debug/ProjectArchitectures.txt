@@ -1,0 +1,2 @@
+C:\Users\david\OneDrive\Documents\GitHub\CS402-Seminar4-Midterm\CS402MidtermDavidBrown\CS402MidtermDavidBrown\CS402MidtermDavidBrown.UWP\CS402MidtermDavidBrown.UWP.csproj;x86
+C:\Users\david\OneDrive\Documents\GitHub\CS402-Seminar4-Midterm\CS402MidtermDavidBrown\CS402MidtermDavidBrown\CS402MidtermDavidBrown\CS402MidtermDavidBrown.csproj;neutral
